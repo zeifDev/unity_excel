@@ -1,0 +1,17 @@
+{
+    "name": "com.influsion.base.excel",
+    "references": [
+        "GUID:0ae5d571c0359d94884e16d1e0c28896"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

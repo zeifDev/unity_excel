@@ -1,0 +1,10 @@
+{
+    "name": "com.influsion.excel",
+    "version": "0.0.1",
+    "displayName": "Excel Importer",
+    "description": "Excel to JsonFile",
+    "unity": "2019.3",
+    "dependencies": {
+      "com.litjson.litjson": "0.0.1"
+   }
+  }
